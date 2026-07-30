@@ -15,20 +15,17 @@ An end-to-end data analytics project exploring over **10,000+ Google Play Store 
 ## 📊 Dashboard Preview
 
 ### 📈 1. Market Overview
-<!-- اسحب صورة overview.png وارميها هنا -->
-![Overview Page](C:\Users\Dell\OneDrive\الصور\Screenshots\Screenshot 2026-07-31 010553.png)
+<img width="1313" height="805" alt="Screenshot 2026-07-31 010553" src="https://github.com/user-attachments/assets/18a35571-a9b8-4bf3-99d2-53b1f6207793" />
+
 
 ### 📁 2. Category Performance
-<!-- اسحب صورة category_performance.png وارميها هنا -->
-![Category Performance](C:\Users\Dell\OneDrive\الصور\Screenshots\Category Performance.png)
+<img width="1315" height="809" alt="Screenshot 2026-07-31 010649" src="https://github.com/user-attachments/assets/6bff6847-e880-4907-876d-02bd218366c5" />
 
 ### ⭐ 3. App Quality & Ratings
-<!-- اسحب صورة app_quality.png وارميها هنا -->
-![App Quality](C:\Users\Dell\OneDrive\الصور\Screenshots\App Quality & Ratings.png)
+<img width="1310" height="804" alt="App Quality   Ratings" src="https://github.com/user-attachments/assets/ade0d2d8-7627-4c85-b781-b205b3ce9a74" />
 
 ### 💬 4. Sentiment Analysis
-<!-- اسحب صورة sentiment_analysis.png وارميها هنا -->
-![Sentiment Analysis](C:\Users\Dell\OneDrive\الصور\Screenshots\Screenshot 2026-07-31 010905.png)
+<img width="1312" height="809" alt="Seintiment Analysis" src="https://github.com/user-attachments/assets/045f23c3-678c-433f-b7a5-9c15e37b0f57" />
 
 ---
 
